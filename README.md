@@ -6,8 +6,6 @@ Para rodar o código do projeto, siga estes passos:
 
     Execute o seguinte comando para rodar o programa:
 
-    bash
-
     python main.py
 
 O script main.py irá carregar os arquivos de entrada da pasta arquivos/, executar o escalonador de processos, e os resultados serão gravados na pasta saidas/ como arquivos de log.
